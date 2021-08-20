@@ -1,0 +1,2 @@
+# _SingleScript.au3
+#include-once ;============================================================================================================== ; UDF Name:         _SingleScript.au3 ; Description:      iMode=0  Close all executing scripts with the same name and continue. ;                   iMode=1  Wait for completion of predecessor scripts with the same name. ;                   iMode=2  Exit if other scripts with the same name are executing. ;                   iMode=3  Test, if other scripts with the same name are executing.
